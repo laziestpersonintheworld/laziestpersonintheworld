@@ -1,4 +1,7 @@
-### Hi there 👋
+```{r}
+sentence <- c("Give me money, money me, money me now")
+echo(sentence)
+```
 
 <!--
 **laziestpersonintheworld/laziestpersonintheworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
